@@ -1,0 +1,10 @@
+.container{
+	background-image: url("code.jpg");
+	border: 2px solid black;
+	margin: auto auto;
+	width: 650px;
+	height: 300px;
+	text-align: center;
+	color: white;
+	
+}
